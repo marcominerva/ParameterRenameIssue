@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParameterRenameIssue", "ParameterRenameIssue\ParameterRenameIssue.csproj", "{939FCE66-36FC-4932-9CCA-1C9323D34623}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{939FCE66-36FC-4932-9CCA-1C9323D34623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939FCE66-36FC-4932-9CCA-1C9323D34623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939FCE66-36FC-4932-9CCA-1C9323D34623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939FCE66-36FC-4932-9CCA-1C9323D34623}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B3885CA-9E67-46CE-87B2-BD2B9992F353}
+	EndGlobalSection
+EndGlobal
